@@ -1,0 +1,22 @@
+Openai response for prompt: Jarvis using artificial intelligence write me a code of python creating a star with the help of turtle 
+ *******************************
+
+
+
+import turtle
+
+length = 100
+
+direction = 0
+
+t = turtle.Turtle()
+
+# set angle for first point
+t.setheading(direction)
+
+for i in range(5):
+    
+    t.forward(length)
+    t.right(144)
+
+t.done()

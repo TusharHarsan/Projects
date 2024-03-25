@@ -1,0 +1,10 @@
+Openai response for prompt: using artificial intelligence tell me how can I create the GUI of this code 
+ *******************************
+
+
+
+There are several ways to create a graphical user interface (GUI) for your code. On Windows, you can use Microsoft Visual Studio to create a Windows Forms application, or you can use Qt and create a Qt application. On Linux, you can create a GTK+ application, or you can use Qt and create a Qt application.
+
+On MacOS, you can use Xcode to create a Cocoa application, or you can use Qt and create a Qt application.
+
+In addition to the above, there are also several specialized GUI libraries that allow you to easily and quickly create graphical user interfaces for your code, such as Tkinter, wxPython, Kivy, and more.

@@ -1,0 +1,17 @@
+Openai response for prompt: Jarvis using artificial intelligence write me a Python program of building a star with the help of turtle 
+ *******************************
+
+
+
+import turtle
+
+screen  =turtle.Screen()
+screen.title("Star Building")
+
+star = turtle.Turtle()
+
+for i in range(5):
+    star.forward(100)
+    star.right(144)
+    
+turtle.done()

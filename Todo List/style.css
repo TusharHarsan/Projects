@@ -1,0 +1,79 @@
+.form{
+    align-items: center;
+    
+}
+
+.body{
+    background-image: url(image.jpg)
+    
+    
+   
+
+}
+
+.navbar{
+    background-image: url(image.jpg);
+    
+}
+
+.navbar a{
+    font-weight: bold;
+}
+
+
+
+#todo{
+    
+    border: 1rem , solid, white;
+    height: auto;
+    
+}
+
+.navbar-brand{
+    padding: 0%;
+}
+
+
+.search{
+    height: 2.5rem;
+    width: 5rem;
+    border:solid,purple ;
+    
+
+
+}
+
+
+.search:hover{
+    background-color: rgb(132, 0, 255);
+    transition: 0.5s;
+
+}
+
+
+#submit:hover{
+    
+    border-radius: 30px;
+    background-color: rgba(0, 255, 0, 0.756);
+    transition: 1s;
+    
+    
+
+}
+
+
+#deletebtn:hover{
+    border-radius: 30px;
+    background-color: red;
+    transition: 1s;
+    
+    
+
+}
+
+.form-control:hover{
+    border-color:orange;
+    border-width: 4px;
+    
+
+}

@@ -1,0 +1,27 @@
+Openai response for prompt: using artificial intelligence write the code of GUI of this code 
+ *******************************
+
+
+
+import Tkinter as tk 
+
+window = tk.Tk() 
+
+window.title("AI based GUI") 
+
+window.geometry('350x200') 
+
+label_1 = tk.Label(window, text = "Welcome", 
+				font = ("Arial Bold", 20)) 
+				
+label_1.grid(column = 0, row = 0) 
+
+def clicked():	  
+	label_1.configure(text = "It's AI") 
+	
+btn = tk.Button(window, text = "Click Here", 
+				command = clicked)		 
+				
+btn.grid(column = 1, row = 0) 
+
+window.mainloop()

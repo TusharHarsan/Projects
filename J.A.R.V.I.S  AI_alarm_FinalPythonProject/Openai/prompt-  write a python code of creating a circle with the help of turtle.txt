@@ -1,0 +1,10 @@
+Openai response for prompt: Jarvis using artificial intelligence write a python code of creating a circle with the help of turtle 
+ *******************************
+
+
+
+import turtle 
+
+myTurtle = turtle.Turtle()
+
+myTurtle.circle(50) #creates a circle of radius 50

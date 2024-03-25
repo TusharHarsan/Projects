@@ -1,0 +1,20 @@
+Openai response for prompt: Jarvis using artificial intelligence write me a letter of resignation to my boss 
+ *******************************
+
+
+
+Dear [Your Boss' Name],
+
+I am writing to inform you that I am resigning from my position of [Your Position] with [Company Name] effective [Date].
+
+I have thoroughly enjoyed my time here and am thankful for the opportunities I was provided. I have always been happy to contribute to the success of this company and am proud of all we have achieved.
+
+However, I have decided that it is in my best interests to move forward on a new career path and hence I am submitting my resignation letter.
+
+I am available to provide assistance to ensure a smooth transition and to help train my replacement.
+
+Thank you for the experience and the chance to be part of [Company Name].
+
+Sincerely,
+
+[Your Name]
